@@ -1,5 +1,5 @@
 # FreeNodesTrojanVmessSSRSS
-# 解压缩密码请到YouTuBe频道观看视频。
+# 解压缩密码请到YouTuBe频道观看对应日期的视频。
 
 注意：程序自动收集整理，稳定性欠佳；<br>
 请大家开启订阅我的YouTuBe频道/点赞和分享视频!<br>
