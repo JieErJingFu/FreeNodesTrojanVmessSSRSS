@@ -1,9 +1,9 @@
 # FreeNodesTrojanVmessSSRSS
 # 解压缩密码请到YouTuBe频道观看视频。
 
-注意：程序自动收集整理，稳定性欠佳；
-请大家开启订阅我的YouTuBe频道/点赞和分享视频!
-订阅本频道: https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw?sub_confirmation=1
+注意：程序自动收集整理，稳定性欠佳；<br>
+请大家开启订阅我的YouTuBe频道/点赞和分享视频!<br>
+订阅本频道: https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw?sub_confirmation=1<br>
 
 使用说明:
 （一）使用教程在视频当中，请认真观看视频；如果当前视频说描述的加密连接已经失效请移步到我的GitHub主页访问最近或最新日期的库,地址样式如下：
