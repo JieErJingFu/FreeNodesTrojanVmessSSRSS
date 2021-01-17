@@ -15,7 +15,7 @@
 		2. V2Ray客户端界面: https://github.com/2dust/v2rayN/releases<br>
 		   V2Ray客户端核心： https://github.com/v2fly/v2ray-core/releases<br>
 		3. Clash客户端： https://github.com/Fndroid/clash_for_windows_pkg/releases<br>
-		3. 加密解密工具： WinRAR5.0以上<br>
+		4. 加密解密工具： WinRAR5.0以上<br>
 
 （三）永久免费机场汇总介绍：<br>
 		视频1： https://www.youtube.com/watch?v=dIuPQqBXTIo<br>
