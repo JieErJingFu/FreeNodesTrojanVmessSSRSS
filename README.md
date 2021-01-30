@@ -12,6 +12,7 @@
 			https://github.com/JieErJingFu
 
 （二）相关最新版工具及地址如下：<br>
+		0. shadowsocks-windows客户端: https://github.com/shadowsocks/shadowsocks-windows <br>
 		1. SSR客户端: https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases<br>
 		2. V2Ray客户端界面: https://github.com/2dust/v2rayN/releases<br>
 		   V2Ray客户端核心： https://github.com/v2fly/v2ray-core/releases<br>
