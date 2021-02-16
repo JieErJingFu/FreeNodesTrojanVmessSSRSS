@@ -5,6 +5,15 @@
 订阅本频道: https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw?sub_confirmation=1<br>
 
 注意：程序自动收集整理，稳定性欠佳；<br>
+自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每1-7天更新
+※※※※※※※※※※※※※※使用教程※※※※※※※※※※※※※※※※※※※※※※
+※※※1. 浏览器访问包含免费节点的github库地址： https://github.com/JieErJingFu/FreeNodesTrojanVmessSSRSS
+※※※2. 寻找据当前日期最近的文件（如：EncryptedFreeNodes年年年年月月日日VV.zip）并单击；
+※※※3. 打开在形如如下样式的网址：https://github.com/JieErJingFu/FreeNodesTrojanVmessSSRSS/blob/main/EncryptedFreeNodes20210216VV.zip，
+※※※4. 然后在上面打开的页面内寻找Download下载按钮
+※※※5. 下载完毕后，解压缩文件，当然需要密码，认真观看对应日期的视频即可获得解压缩密码；
+※※※
+※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
 
 使用说明:<br>
 （一）使用教程在视频当中，请认真观看视频；如果当前视频说描述的加密连接已经失效请移步到我的GitHub主页访问最近或最新日期的库,地址样式如下：<br>
