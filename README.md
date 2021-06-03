@@ -26,16 +26,26 @@
 		2. V2Ray客户端界面: https://github.com/2dust/v2rayN/releases<br>
 		   V2Ray客户端核心： https://github.com/v2fly/v2ray-core/releases<br>
 		3. Clash客户端： https://github.com/Fndroid/clash_for_windows_pkg/releases<br>
-		4. 加密解密工具： WinRAR5.0以上<br>
+		4. Qv2ray客户端: https://github.com/Qv2ray/Qv2ray/releases<br>
+  		5. QvPlugin-SSR插件: https://github.com/Qv2ray/QvPlugin-SSR/releases<br>
+  		6. 加密解密工具： WinRAR5.0以上<br>
 
 （三）永久免费机场汇总介绍：<br>
-		视频1： https://www.youtube.com/watch?v=dIuPQqBXTIo<br>
-		视频2： https://www.youtube.com/watch?v=YQeuImbReo0<br>
+		节点超多-完全免费VPN ： https://www.youtube.com/watch?v=3jhaRUu8tPI<br>
+  		海量节点代理池使用： https://www.youtube.com/watch?v=Dm391UP68UQ<br>
+  		永久免费ssr,ss,v2ray节点账号分享1: https://www.youtube.com/watch?v=dIuPQqBXTIo<br>
+  		永久免费ssr,ss,v2ray节点账号分享2: https://www.youtube.com/watch?v=nioV0SRez0g<br>
+  		永久免费ssr,ss,v2ray节点账号分享3: https://www.youtube.com/watch?v=YQeuImbReo0<br>
+  		Qv2ray永久免费ssr,ss,v2ray节点账号分享4: https://www.youtube.com/watch?v=ARiD5nxX188<br>
 
 （四）推荐便宜实惠海外服务器,购买后自己搭建个人专属机场：<br>
 		新老用户均有优惠可以使用，个人使用经验分享，价格绝对实惠；<br>
-		可以搭建VPN, V2Ray, Clash, Trojan, SS,SSR的海外服务器：<br>
-		云服务器全球购1： https://curl.qcloud.com/wZZzen60<br>
-		云服务器全球购2：https://curl.qcloud.com/iGDVWVjz<br>
-		新用户优惠券： https://curl.qcloud.com/GLpiR275<br>
-		新用户福利券：https://curl.qcloud.com/JmobD9yg<br>
+  		可以搭建VPN, V2Ray, Clash, Trojan, SS,SSR的海外服务器：<br>
+  		云服务器全球购1： https://curl.qcloud.com/wZZzen60<br>
+ 		云服务器全球购2：https://curl.qcloud.com/iGDVWVjz<br>
+  		新用户优惠券： https://curl.qcloud.com/GLpiR275<br>
+  		新用户福利券：https://curl.qcloud.com/JmobD9yg<br>
+  		搬瓦工： https://bandwagonhost.com/aff.php?aff=64341<br>
+  		送100美元Vultr免费云服务器注册：https://www.vultr.com/?ref=8806465-6G<br>
+  # 本频道官网:
+  ## https://www.kingfu.cf
